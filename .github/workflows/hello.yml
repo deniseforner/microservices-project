@@ -1,3 +1,4 @@
+# Simple workflow to test GitHub Actions
 name: Hello Actions
 
 on:
